@@ -60,3 +60,9 @@ npm run start
 
 Credit for the original javascript version of this go to:
 * [w3cj/express-api-starter](https://github.com/w3cj/express-api-starter)
+
+## Supporting
+
+Please consider supporting my projects, the more caffine I have, the quicker I can type.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/willdewhurst)
