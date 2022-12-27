@@ -1,7 +1,7 @@
 {
   "name": "typescript-express-api-starter",
   "version": "1.0.0",
-  "description": " A basic starter for an express.js API using typescript",
+  "description": "A basic starter for an express.js API using typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -15,7 +15,7 @@
   "author": "Will Dewhurst <will@wdew.uk> (https://hello.wdew.uk)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dewhurst/typescript-express-api-starter.git"
+    "url": "https://github.com/dewhurstwill/typescript-express-api-starter.git"
   },
   "license": "MIT",
   "dependencies": {
